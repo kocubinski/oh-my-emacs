@@ -31,7 +31,7 @@
       (eval-print-last-sexp))))
 
 ;; enable git shallow clone to save time and bandwidth
-(setq el-get-git-shallow-clone t)
+;; (setq el-get-git-shallow-clone t)
 
 ;; Sometimes, we need to experiment with our own recipe, or override the
 ;; default el-get recipe to get around bugs.
